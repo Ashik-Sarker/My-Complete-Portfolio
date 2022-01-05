@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.flexible{
+    display: flex;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+.text-section{
+    width: 50%;
+    margin-top: 150px;
+}
+.border-class{
+    font-size: 80px;
+    border-left: 7px solid ;
+    border-image: linear-gradient(#f7d516, #ec3a1b) 20;
+    padding-left: 40px;
+}
+.text-section p{
+    width: 80%;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 50px;
+    text-align: justify;
+}
+.button-class{
+    text-decoration: none;
+    background-color: rgb(255, 103, 65);
+    color: white;
+    padding: 20px 60px;
+    border-radius: 10px;
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 20px;
+
+}
+.text-color{
+    color: orange;
+}
+.image-section{
+    width: 50%;
+}
+#heading-image{
+    width: 80%;
+}
+.mission-vision-goals-heading-text{
+    font-size: 80px;
+    text-align: center;
+}
+.mission-vision-goals{
+    background-color: gray;
+    width: 25%;
+    margin-right: 80px;
+    padding: 60px 30px;
+    border-radius: 20px;
+    
+}
+.mission-vision-goals h1{
+    font-size: 30px;
+}
+.mission-vision-goals img{
+    height: 150px;
+    width: 150px;
+}
+#mission{
+    background-color: rgba(146, 180, 156, 0.212);
+}
+#vision{
+    background-color: rgba(243, 193, 193, 0.322);
+}
+#goals{
+    background-color: rgba(206, 190, 141, 0.39);
+}
+
+
