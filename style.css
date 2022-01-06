@@ -86,10 +86,11 @@ body{
     width: 60%;
 }
 .documentation-text-portion h1{
-    font-size: 40px;;
+    font-size: 50px;
 }
 .contact-us{
     padding-top: 80px;
+    background-color: rgb(240, 236, 236);
 }
 .contact-us h1{
     font-size: 50px;
@@ -100,7 +101,7 @@ body{
 .cotact-us-text{
     text-align: center;
 }
-.call-us-on{
+.contact-us-on{
     width: 30%;
     text-align: center;
     border: 2px solid;
@@ -108,11 +109,8 @@ body{
     margin-right: 20px;
     padding-top: 20px;
 }
-.call-us-on p{
-    color: rgb(167, 112, 10);
-}
-#background-color{
-    background-color: rgb(240, 236, 236);
+.contact-us-on p{
+    color: rgb(104, 71, 10);
 }
 .icon-color{
     color: orange;
