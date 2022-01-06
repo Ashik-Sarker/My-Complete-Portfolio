@@ -52,29 +52,29 @@ body{
 .mission-vision-goals{
     width: 25%;
     margin-right: 80px;
-    padding: 30px 30px;
+    padding: 20px 40px;
     border-radius: 30px;
-    
+    box-shadow: 10px 10px 40px rgb(124, 117, 105);
 }
 .mission-vision-goals h1{
     font-size: 40px;
 }
 .mission-vision-goals img{
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
 }
 .mission-vision-goals p{
     text-align: justify;
     font-size: 20px;
 }
 #mission{
-    background-color: rgba(146, 180, 156, 0.212);
+    background-color: rgba(91, 236, 163, 0.158);
 }
 #vision{
-    background-color: rgba(243, 193, 193, 0.322);
+    background-color: rgba(233, 131, 131, 0.199);
 }
 #goals{
-    background-color: rgba(206, 190, 141, 0.39);
+    background-color: rgba(228, 203, 130, 0.212);
 }
 .documentation-image-portion{
     width: 40%;
@@ -128,4 +128,13 @@ body{
     border-radius: 50px;
     color: rgb(255, 255, 255);
     font-size: 30px;
+}
+footer{
+    padding: 60px 0px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+footer h1{
+    font-size: 40px;
 }
